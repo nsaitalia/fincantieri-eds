@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/fincantieri-eds/:/",
+    "/content/fincantieri-eds/configuration:/.helix/config.json",
+    "/content/fincantieri-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/fincantieri-eds/"
   ]
 }
